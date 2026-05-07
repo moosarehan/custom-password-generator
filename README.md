@@ -1,5 +1,5 @@
 # 🔐 Advanced Password Generator
-
+Live Demo:https://custom-password-generator-amber.vercel.app/
 A premium, highly-secure, and aesthetically pleasing Password Generator built with Vanilla Web Technologies. This tool allows users to generate cryptographically-secure-style passwords with customizable lengths and character sets, featuring a real-time strength indicator and one-click copy functionality.
 
 ## ✨ Features
@@ -40,14 +40,3 @@ A modern web browser (Chrome, Firefox, Edge, Safari).
 1. Clone the repository or download the files.
 2. Open `index.html` in your favorite browser.
 
-# Secure Password Generator 🔐
-A simple, interactive, and customizable password generator built with HTML, CSS, and Vanilla JavaScript.
-## Features
-- **Customizable Length:** Choose a password length between 1 and 20 characters using a visual slider.
-- **Character Options:** Toggle uppercase letters, lowercase letters, numbers, and symbols.
-- **Strength Indicator:** Get visual feedback on how strong your generated password is.
-- **One-Click Copy:** Easily copy the generated password to your clipboard.
-## Technologies Used
-- HTML5
-- CSS3 (Vanilla)
-- JavaScript (Vanilla)
